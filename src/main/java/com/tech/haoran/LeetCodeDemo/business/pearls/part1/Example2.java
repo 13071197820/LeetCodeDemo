@@ -10,7 +10,7 @@ public class Example2 {
     int length = 10000000;
     byte[] value = new byte[(length+1)/8];
     /**
-     * 位置从1开始编码 位图中八位代表一个字节
+     * 位置从1开始编码 八位代表一个字节
      * 1000 0000
      * 0100 0000
      * 0010 0000
