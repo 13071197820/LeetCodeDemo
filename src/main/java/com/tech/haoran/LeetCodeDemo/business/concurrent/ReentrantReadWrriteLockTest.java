@@ -1,4 +1,4 @@
-package com.tech.haoran.LeetCodeDemo.business.courrent;
+package com.tech.haoran.LeetCodeDemo.business.concurrent;
 
 public class ReentrantReadWrriteLockTest {
 
